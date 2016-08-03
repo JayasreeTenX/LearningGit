@@ -1,3 +1,4 @@
 # LearningGit
 Practicing Git using Web UI
-Practicing by creating branches from the master
+Practicing by creating.
+Learning by creating multiple branches
